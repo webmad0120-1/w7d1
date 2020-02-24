@@ -1,0 +1,16 @@
+.product {
+    width: 200px;
+    border: 1px solid black;
+}
+
+.price::after {
+    content : "gbp"
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
